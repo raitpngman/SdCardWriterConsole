@@ -7,8 +7,7 @@ Run the executable and follow the instructions.
 ###  Prerequisites:
 This needs the dotnet 9 runtime version.
 
-
-### Steps:
+### The program:
 Select folders you want to copy from. This will copy all the folders and files from the folder you select.
 
 ![SelectFolders.png](screenshots/SelectFolders.png)
