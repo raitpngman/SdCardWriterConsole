@@ -1,4 +1,7 @@
-﻿namespace SDCardCreatorConsole;
+﻿//SPDX-FileCopyrightText: © 2025 Sam Smucker <raitpngman@yahoo.com> 
+//SPDX-License-Identifier: BSD-3-Clause
+
+namespace SDCardCreatorConsole;
 
 /// <summary>
 /// Represents the configuration options for various operations such as validation,

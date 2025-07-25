@@ -1,4 +1,7 @@
-﻿namespace SDCardCreatorConsole;
+﻿//SPDX-FileCopyrightText: © 2025 Sam Smucker <raitpngman@yahoo.com> 
+//SPDX-License-Identifier: BSD-3-Clause
+
+namespace SDCardCreatorConsole;
 
 /// <summary>
 /// Specifies options for handling file overwriting behavior during operations.

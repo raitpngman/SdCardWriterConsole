@@ -1,7 +1,8 @@
 ﻿using System.Collections.Concurrent;
 using System.IO.Hashing;
 using System.Runtime.InteropServices;
-
+//SPDX-FileCopyrightText: © 2025 Sam Smucker <raitpngman@yahoo.com> 
+//SPDX-License-Identifier: BSD-3-Clause
 
 namespace SDCardCreatorConsole;
 

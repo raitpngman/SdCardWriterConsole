@@ -1,4 +1,6 @@
-using System.Diagnostics;
+//SPDX-FileCopyrightText: © 2025 Sam Smucker <raitpngman@yahoo.com> 
+//SPDX-License-Identifier: BSD-3-Clause
+
 using System.Runtime.InteropServices;
 using Microsoft.Win32.SafeHandles;
 
