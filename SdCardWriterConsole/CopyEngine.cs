@@ -495,7 +495,7 @@ public class CopyEngine
                 {
                     foreach (var drive in drives)
                         if (drive is { DriveType: DriveType.Fixed, IsReady: true, DriveFormat: "msdos" } &&
-                            drive.Name.StartsWith("/media"))
+                            (drive.Name.StartsWith("/media") || drive.Name.StartsWith("/run/media")))
                         {
                             var size = (drive.TotalSize / (double)1000000000).ToString("F2");
                             var lvi = new DriveInformation(drive.Name, size);
